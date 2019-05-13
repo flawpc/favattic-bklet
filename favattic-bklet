@@ -1,0 +1,1 @@
+javascript:location.href='http://www.favattic.com/app/#/favorites?create=true&title='+encodeURIComponent(window.document.title)+'&url='+encodeURIComponent(window.location.href);
